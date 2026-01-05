@@ -183,8 +183,6 @@ Check webcam permissions or camera index
 --------------------------------------------------------
 11. FUTURE IMPROVEMENTS
 --------------------------------------------------------
-- Automatic user ID and name registration
-- Persistent label-name mapping file
 - CNN-based face recognition (FaceNet / ArcFace)
 - Improved pose and lighting robustness
 
